@@ -1,4 +1,4 @@
-# AWS-Practice-Projects
+# DejaVu
 This repository contains all the source codes of my AWS Practices.
 
 
