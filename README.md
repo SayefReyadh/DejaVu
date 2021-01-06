@@ -32,7 +32,7 @@ Next, set up credentials (in e.g. ``~\.aws\credentials``):
 Then, set up a default region (in e.g. ``~\.aws\config``):
 
     [default]
-    region=us-east-1
+    region=ap-south-1
 
 
 
