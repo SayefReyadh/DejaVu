@@ -54,6 +54,18 @@ Open up command prompt and write the following command `aws configure`
     Default region name : ap-south-1
     Default output format : 
 
+You can also set it up in the following directory (`C:\Users\USER_NAME\.aws\` for Windows users) and saving the following lines in the file:
+Next, set up credentials (in e.g. ``~\.aws\credentials``):
+
+    [default]
+    aws_access_key_id = YOUR_KEY
+    aws_secret_access_key = YOUR_SECRET
+
+Then, set up a default region (in e.g. ``~\.aws\config``):
+
+    [default]
+    region=ap-south-1
+
 ## Running the Project
 
 This sample application connects to Amazon's S3
