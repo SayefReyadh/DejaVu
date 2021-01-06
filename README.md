@@ -46,7 +46,7 @@ Run powershell as administrator to install software
 
 ## Basic Configuration
 
-You need to set up your AWS security credentials before the code is able to connect to AWS. You can obtain the keys from the created IAM user's `Security Credentials`
+You need to set up your AWS security credentials before the code is able to connect to AWS. You can obtain the keys from the created IAM user's `Security Credentials`. 
 Open up command prompt and write the following command `aws configure` 
 
     AWS Access Key ID : YOUR_KEY
