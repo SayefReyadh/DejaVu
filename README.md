@@ -4,19 +4,13 @@ A simple demo project which uploads the python files and csv files in a S3 bucke
 ## Requirements
 
 Run powershell as administrator to install software
-1. Chocolatey: https://chocolatey.org/
-2. Pycharm Professional: https://www.jetbrains.com/pycharm/download/
-3. Python 3
-  `choco install python3 -y`
-4. NodeJS
-  `choco install nodejs -y`
-5. AWS CLI
-  `choco install awscli -y`
-6. Git
-  `choco install git -y`
-7. Pipenv
+1. [Python](https://www.python.org/downloads/)
+2. [Pycharm Professional](https://www.jetbrains.com/pycharm/download/)
+3. AWS CLI
+  `pip install awscli`
+4. Pipenv
   `pip install pipenv`
-8. Boto3
+5. Boto3
   `pip install boto3`
    
 ## AWS Console Configuration
